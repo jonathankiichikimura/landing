@@ -1,0 +1,18 @@
+.card {
+  width: 200px;
+  padding: 32px 16px;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  width: 75px;
+}
+
+.card-todo h2{
+  font-size: 16px;
+}
+
+.card-todo p {
+  font-size: 12px;
+  color: grey;
+}
